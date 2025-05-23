@@ -1,4 +1,4 @@
 package stepdefinition;
 
-public class Nuevo2 {
+public class nuevo3 {
 }
